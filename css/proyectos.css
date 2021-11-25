@@ -1,11 +1,12 @@
 
-/* #clase{
-    color:blueviolet;
-} */
+#clase{
+    color:#ffffff;
+    background-color:black;
+}
 
 .formulario{
     height: 450px;
-    background-color:black;
+    /* background-color:black; */
 }
 
 .centrar{
