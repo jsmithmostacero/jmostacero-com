@@ -39,7 +39,7 @@
   :hover.pintar{
     background-color: rgb(236, 236, 68);
     transition: 1s;
-    border-radius: 50%;
+    border-radius: 10%;
   
   }
 
@@ -62,23 +62,38 @@
     display:block;
   }
   
-  .centrar-2{
+  /* .centrar-2{
     width: 90%;
     margin:10px auto;
     display:block;
-  }
+  } */
 
   .centrar-img{
     /* border: 1px solid black; */
     margin:10px auto;
     display:block;
   }
+
+  .c-img{
+    margin:10px auto;
+    display:block;
+    width: 50%;
+    /* align-items: center; */
+  }
+
+  .d-img{
+    margin:10px auto;
+    display:block;
+    /* width: 20%; */
+    /* align-items: center; */
+  }
   
   .centrar-text{
-    width: 80%;
+    width: 85%;
     margin:10px auto;
     display:block;
     padding:20px 0px;
+    text-align: justify;
     /* text-align:center; */
   }
   
@@ -111,3 +126,17 @@
     text-decoration:none;
     font-size:20px;
   }
+
+  .sub-setcion{
+    padding: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .parrafo-sub{
+    padding: 5px 10px;
+    margin-top: 30px;
+    text-align: justify;
+  }
+

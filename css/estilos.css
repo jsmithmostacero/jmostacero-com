@@ -99,7 +99,7 @@ a{
 :hover.pintar{
   background-color: rgb(236, 236, 68);
   transition: 1s;
-  border-radius: 50%;
+  border-radius: 10%;
 
 }
 
