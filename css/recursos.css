@@ -95,3 +95,18 @@
   .do{
     margin-left: 15px;
   }
+  
+  
+
+  .titulo{
+    font-size:60px;
+    color: #1ABC9C;
+    font-weight: bold;
+    font-family:monospace;
+    text-align: center;
+    padding-top:20px;
+  }
+
+  .bg{
+    background-color : #1ABC9C;
+  }
